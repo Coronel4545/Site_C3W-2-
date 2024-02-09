@@ -3332,10 +3332,11 @@ background-video {
 
 .m-footer-section {
   color: #fff;
-  background-image: linear-gradient(#000, rgba(0, 0, 0, 0)), url("../assets/gif.gif");
-  background-repeat: repeat, no-repeat;
+  background-image: linear-gradient(#000, rgba(0, 0, 0, 0)), url("../assets/rodape.jpg");
+  background-repeat:no-repeat;
   background-size: auto, cover;
   padding: 4rem 4em;
+  background-position:center;
 }
 
 .m-text-link {
